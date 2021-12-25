@@ -46,6 +46,7 @@
   <img src="assets/images/cheetah.jpg" width="300" /> 
   <img src="assets/images/CheetahColourExtraction.jpg" width="300" />
 </div>
+
 #### Chameleon
 <div float="left">
   <img src="assets/images/chameleon.jpg" width="300" /> 
