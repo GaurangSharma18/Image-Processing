@@ -48,3 +48,9 @@
     <img src="assets/images/cheetah.jpg" style="display:inline-block;width:22%" alt="Cheetah" ></img>
     <img src="assets/images/CheetahColourExtraction.jpg" style="display:inline-block;width:40%" alt="Cheetah"></img>
 </div>
+
+<div float="left">
+  <img src="assets/images/CheetahColourExtraction.jpg" width="100" />
+  <img src="assets/images/cheetah.jpg" width="100" /> 
+  <img src="assets/images/CheetahColourExtraction.jpg" width="100" />
+</div>
