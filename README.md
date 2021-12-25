@@ -43,3 +43,4 @@
 ## Colour Distancing And Slicing
 ![Cheetah Original Image](assets/images/cheetah.jpg)
 ![Cheetah image colour slicing](assets/images/CheetahColourExtraction.jpg)
+<img src="assets/images/CheetahColourExtraction.jpg" alt="Cheetah">
