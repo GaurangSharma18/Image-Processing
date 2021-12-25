@@ -41,9 +41,9 @@
         Open the file in MATLAB and click on Run.
 
 ## Colour Distancing And Slicing
-![Cheetah Original Image](assets/images/cheetah.jpg)
-![Cheetah image colour slicing](assets/images/CheetahColourExtraction.jpg)
-<img src="assets/images/CheetahColourExtraction.jpg" alt="Cheetah" width="60%" height="80%">
+![Cheetah Original Image](assets/images/cheetah.jpg) ![Cheetah image colour slicing](assets/images/CheetahColourExtraction.jpg) 
+![Cheetah image colour slicing](assets/images/CheetahColourExtraction.jpg) ![Cheetah image colour slicing](assets/images/CheetahColourExtraction.jpg) 
+<img src="assets/images/CheetahColourExtraction.jpg" alt="Cheetah" width="60%" height="80%"> 
 <div style="width:100%">
     <img src="assets/images/cheetah.jpg" style="display:inline-block;width:22%" alt="Cheetah" ></img>
     <img src="assets/images/CheetahColourExtraction.jpg" style="display:inline-block;width:40%" alt="Cheetah"></img>
