@@ -41,10 +41,12 @@
         Open the file in MATLAB and click on Run.
 
 ## Colour Distancing And Slicing
+#### Cheetah
 <div float="left">
   <img src="assets/images/cheetah.jpg" width="300" /> 
   <img src="assets/images/CheetahColourExtraction.jpg" width="300" />
 </div>
+#### Chameleon
 <div float="left">
   <img src="assets/images/chameleon.jpg" width="300" /> 
   <img src="assets/images/RedColourExtractionChameleon.jpg" width="300" />
