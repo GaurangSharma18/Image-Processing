@@ -45,6 +45,6 @@
 ![Cheetah image colour slicing](assets/images/CheetahColourExtraction.jpg)
 <img src="assets/images/CheetahColourExtraction.jpg" alt="Cheetah" width="60%" height="80%">
 <div style="width:100%">
-    <img src="assets/images/cheetah.jpg" alt="Cheetah" style="width: 21.9%;max-width: 100%;vertical-align:top;margin-top:0.9rem;display:inline-block;"></img>
+    <img src="assets/images/cheetah.jpg" alt="Cheetah" style="width:21.9%;vertical-align:top;margin-top:0.9rem;display:inline-block;"></img>
     <img src="assets/images/CheetahColourExtraction.jpg" style="display:inline-block;width:40%" alt="Cheetah"></img>
 </div>
