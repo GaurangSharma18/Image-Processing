@@ -45,3 +45,11 @@
   <img src="assets/images/cheetah.jpg" width="300" /> 
   <img src="assets/images/CheetahColourExtraction.jpg" width="300" />
 </div>
+<div float="left">
+  <img src="assets/images/chameleon.jpg" width="300" /> 
+  <img src="assets/images/RedColourExtractionChameleon.jpg" width="300" />
+</div>
+<div float="left">
+  <img src="assets/images/colourExtractionChameleon.jpg" width="300" /> 
+  <img src="assets/images/GreencolourExtractionChameleon.jpg" width="300" />
+</div>
