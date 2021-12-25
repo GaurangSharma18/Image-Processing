@@ -45,6 +45,6 @@
 ![Cheetah image colour slicing](assets/images/CheetahColourExtraction.jpg)
 <img src="assets/images/CheetahColourExtraction.jpg" alt="Cheetah" width="60%" height="80%">
 <div style="width:100%">
-    <a target="_blank" rel="noopener noreferrer" href="/GaurangSharma18/Image-Processing/blob/main/assets/images/CheetahColourExtraction.jpg" style="display:inline-block;width:40%"><img src="/GaurangSharma18/Image-Processing/raw/main/assets/images/CheetahColourExtraction.jpg" alt="Cheetah" width="100%" height="100%"></a>
-    <a target="_blank" rel="noopener noreferrer" href="/GaurangSharma18/Image-Processing/blob/main/assets/images/CheetahColourExtraction.jpg" style="display:inline-block;width:40%"><img src="/GaurangSharma18/Image-Processing/raw/main/assets/images/CheetahColourExtraction.jpg" alt="Cheetah" width="100%" height="100%"></a>
+    <a target="_blank" rel="noopener noreferrer" href="assets/images/CheetahColourExtraction.jpg" style="display:inline-block;width:40%"><img src="/GaurangSharma18/Image-Processing/raw/main/assets/images/CheetahColourExtraction.jpg" alt="Cheetah" width="100%" height="100%"></a>
+    <a target="_blank" rel="noopener noreferrer" href="assets/images/CheetahColourExtraction.jpg" style="display:inline-block;width:40%"><img src="/GaurangSharma18/Image-Processing/raw/main/assets/images/CheetahColourExtraction.jpg" alt="Cheetah" width="100%" height="100%"></a>
 </div>
