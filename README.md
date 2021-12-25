@@ -40,5 +40,6 @@
   ## 2. Run the Application  
         Open the file in MATLAB and click on Run.
 
-
-![This is an image](assets/images/cheetah.jpg)
+## Colour Distancing And Slicing
+![Cheetah Original Image](assets/images/cheetah.jpg)
+![Cheetah image colour slicing](assets/images/cheetahColourExtraction.fig)
