@@ -41,16 +41,18 @@
         Open the file in MATLAB and click on Run.
 
 ## Colour Distancing And Slicing
-![Cheetah Original Image](assets/images/cheetah.jpg) ![Cheetah image colour slicing](assets/images/CheetahColourExtraction.jpg) 
-![Cheetah image colour slicing](assets/images/CheetahColourExtraction.jpg) ![Cheetah image colour slicing](assets/images/CheetahColourExtraction.jpg) 
-<img src="assets/images/CheetahColourExtraction.jpg" alt="Cheetah" width="60%" height="80%"> 
-<div style="width:100%">
-    <img src="assets/images/cheetah.jpg" style="display:inline-block;width:22%" alt="Cheetah" ></img>
-    <img src="assets/images/CheetahColourExtraction.jpg" style="display:inline-block;width:40%" alt="Cheetah"></img>
+#### Cheetah
+<div float="left">
+  <img src="assets/images/cheetah.jpg" width="300" /> 
+  <img src="assets/images/CheetahColourExtraction.jpg" width="300" />
 </div>
 
+#### Chameleon
 <div float="left">
-  <img src="assets/images/CheetahColourExtraction.jpg" width="100" />
-  <img src="assets/images/cheetah.jpg" width="100" /> 
-  <img src="assets/images/CheetahColourExtraction.jpg" width="100" />
+  <img src="assets/images/chameleon.jpg" width="300" /> 
+  <img src="assets/images/RedColourExtractionChameleon.jpg" width="300" />
+</div>
+<div float="left">
+  <img src="assets/images/colourExtractionChameleon.jpg" width="300" /> 
+  <img src="assets/images/GreencolourExtractionChameleon.jpg" width="300" />
 </div>
