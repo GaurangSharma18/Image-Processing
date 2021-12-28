@@ -139,3 +139,8 @@
 <div float="left">
   <img src="assets/images/CoinAfterThresholding7.jpg" width="400"/> 
 </div>
+
+## Filtering in spatial domain 
+<div float="left">
+  <img src="assets/images/CameramanFiltering.jpg" width="400"/> 
+</div>
