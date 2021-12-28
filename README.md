@@ -102,9 +102,9 @@
 
 ## Contrast Matching - Church image is contrast matched with respect to corel's contrast.
 <div float="left">
-  <img src="assets/images/Church.jpg" width="300"/> 
+  <img src="assets/images/Church.jpg" width="300" height="300"/> 
   <img src="assets/images/corel.jpg" width="300"/>
-  <img src="assets/images/churchContrastMatching.jpg" width="300"/>
+  <img src="assets/images/churchContrastMatching.jpg" width="300" height="300"/>
   
 </div>
 
@@ -112,11 +112,11 @@
 ### Miranda1 original Image and Image with noise
 
 <div float="left">
-  <img src="assets/images/miranda1.jpg" width="300"/> 
-  <img src="assets/images/Coin.jpg" width="300"/>
+  <img src="assets/images/miranda1.jpg" width="250"/> 
+  <img src="assets/images/Coin.jpg" width="250"/>
 </div>
 
-### Miranda1 image with median filters 3*3, 5*5 and 7*7
+### Miranda1 image with median filters [3,3], [5,5] and [7,7].
 <div float="left">
   <img src="assets/images/coin3.jpg" width="200"/> 
   <img src="assets/images/coin5.jpg" width="200"/>
@@ -138,4 +138,9 @@
 ### Miranda1 image after thresholding on 7*7 kernel median filtered Image
 <div float="left">
   <img src="assets/images/CoinAfterThresholding7.jpg" width="400"/> 
+</div>
+
+## Filtering in spatial domain 
+<div float="left">
+  <img src="assets/images/CameramanFiltering.jpg" width="400"/> 
 </div>
