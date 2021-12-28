@@ -43,18 +43,18 @@
 ## Colour Distancing And Slicing
 #### Cheetah
 <div float="left">
-  <img src="assets/images/cheetah.jpg" width="300" /> 
-  <img src="assets/images/CheetahColourExtraction.jpg" width="300" />
+  <img src="assets/images/cheetah.jpg" width="400" /> 
+  <img src="assets/images/CheetahColourExtraction.jpg" width="400" />
 </div>
 
 #### Chameleon
 <div float="left">
-  <img src="assets/images/chameleon.jpg" width="300" /> 
-  <img src="assets/images/RedColourExtractionChameleon.jpg" width="300" />
+  <img src="assets/images/chameleon.jpg" width="400" /> 
+  <img src="assets/images/RedColourExtractionChameleon.jpg" width="400" />
 </div>
 <div float="left">
-  <img src="assets/images/colourExtractionChameleon.jpg" width="300" /> 
-  <img src="assets/images/GreencolourExtractionChameleon.jpg" width="300" />
+  <img src="assets/images/colourExtractionChameleon.jpg" width="400" /> 
+  <img src="assets/images/GreencolourExtractionChameleon.jpg" width="400" />
 </div>
 
 
@@ -108,6 +108,11 @@
   
 </div>
 
+## Object Extraction
+<div float="left">
+  <img src="assets/images/Object extraction.jpg"/> 
+</div>
+
 ## Median Filtering
 ### Miranda1 original Image and Image with noise
 
@@ -150,7 +155,4 @@
   <img src="assets/images/histogramEquilization.jpg"/> 
 </div>
 
-## Object Extraction
-<div float="left">
-  <img src="assets/images/Object extraction.jpg"/> 
-</div>
+
