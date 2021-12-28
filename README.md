@@ -59,12 +59,21 @@
 
 
 ## Blurring And Restoration
-#### DIP Book Image
 <div float="left">
   <img src="assets/images/DIP.jpg" />
 </div>
 
-#### Blurring, Addition of noise And Restoration using Weiner Filter
+## Blurring, Addition of noise And Restoration using Weiner Filter
 <div float="left">
   <img src="assets/images/DIPWeinerFilter.jpg" /> 
+</div>
+
+## Chrominance Sub Sampling
+#### YUV components
+<div float="left">
+  <img src="assets/images/.ChrominanceSubSamplingBunny.jpg" /> 
+</div>
+#### U and V components after processing and the Output Image processed Image in RGB.
+<div float="left">
+  <img src="assets/images/bunny2.jpg" /> 
 </div>
