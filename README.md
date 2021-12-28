@@ -78,3 +78,9 @@
 <div float="left">
   <img src="assets/images/bunny2.jpg" /> 
 </div>
+
+## RGB colourspace components with a few modifications.
+<div float="left">
+  <img src="assets/imagespeppers.jpg" /> 
+</div>
+
