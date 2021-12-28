@@ -87,9 +87,7 @@
 
 ## Filtering in frequency domain
 <div float="left">
-  <img src="assets/images/cameraman.jpg" width="300"/> 
-  <img src="assets/images/cameramanHighPassFilter.jpg" width="300"/> 
-  <img src="assets/images/cameramanLowPassFilter.jpg" width="300"/> 
+  <img src="assets/images/cameramanFreqDomain.jpg"/>
 </div>
 
 ## Contrast Streching
