@@ -142,5 +142,5 @@
 
 ## Filtering in spatial domain 
 <div float="left">
-  <img src="assets/images/CameramanFiltering.jpg" width="400"/> 
+  <img src="assets/images/CameramanFiltering.jpg"/> 
 </div>
