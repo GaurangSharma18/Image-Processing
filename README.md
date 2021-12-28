@@ -144,3 +144,13 @@
 <div float="left">
   <img src="assets/images/CameramanFiltering.jpg"/> 
 </div>
+
+## Histogram Equilization 
+<div float="left">
+  <img src="assets/images/histogramEquilization.jpg"/> 
+</div>
+
+## Object Extraction
+<div float="left">
+  <img src="assets/images/Object extraction.jpg"/> 
+</div>
