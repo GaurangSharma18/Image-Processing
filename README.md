@@ -112,15 +112,15 @@
 ### Miranda1 original Image and Image with noise
 
 <div float="left">
-  <img src="assets/images/miranda1.jpg" width="400"/> 
-  <img src="assets/images/Coin.jpg" width="400"/>
+  <img src="assets/images/miranda1.jpg" width="300"/> 
+  <img src="assets/images/Coin.jpg" width="300"/>
 </div>
 
 ### Miranda1 image with median filters 3*3, 5*5 and 7*7
 <div float="left">
-  <img src="assets/images/coin3.jpg" width="300"/> 
-  <img src="assets/images/coin5.jpg" width="300"/>
-  <img src="assets/images/coin7.jpg" width="300"/>
+  <img src="assets/images/coin3.jpg" width="200"/> 
+  <img src="assets/images/coin5.jpg" width="200"/>
+  <img src="assets/images/coin7.jpg" width="200"/>
 </div>
 
 ### Miranda1 image after thresholding on 3*3 kernel median filtered Image
