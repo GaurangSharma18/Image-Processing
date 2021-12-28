@@ -56,3 +56,31 @@
   <img src="assets/images/colourExtractionChameleon.jpg" width="300" /> 
   <img src="assets/images/GreencolourExtractionChameleon.jpg" width="300" />
 </div>
+
+
+## Blurring And Restoration
+<div float="left">
+  <img src="assets/images/DIP.jpg" />
+</div>
+
+## Blurring, Addition of noise And Restoration using Weiner Filter
+<div float="left">
+  <img src="assets/images/DIPWeinerFilter.jpg" /> 
+</div>
+
+## Chrominance Sub Sampling
+#### YUV components
+<div float="left">
+  <img src="assets/images/.ChrominanceSubSamplingBunny.jpg" /> 
+</div>
+
+#### U and V components after processing and the Output Image processed Image in RGB.
+<div float="left">
+  <img src="assets/images/bunny2.jpg" /> 
+</div>
+
+## RGB colourspace components with a few modifications.
+<div float="left">
+  <img src="assets/images/peppers.jpg" /> 
+</div>
+
