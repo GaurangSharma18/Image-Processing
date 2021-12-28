@@ -92,9 +92,7 @@
 
 ## Contrast Streching
 <div float="left">
-  <span> Original Image </span>
   <img src="assets/images/Moon.jpg" width="400"/> 
-  <span> After Processing </span>
   <img src="assets/images/MoonContrastStreched.jpg" width="400"/>
 </div>
 <div float="left">
