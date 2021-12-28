@@ -91,3 +91,13 @@
   <img src="assets/images/cameramanHighPassFilter.jpg" width="300"/> 
   <img src="assets/images/cameramanLowPassFilter.jpg" width="300"/> 
 </div>
+
+## Contrast Streching
+<div float="left">
+  <img src="assets/images/moon.jpg" width="300"/> 
+  <img src="assets/images/MoonContrastStreched.jpg" width="300"/>
+</div>
+<div float="left">
+  <img src="assets/images/house.jpg" width="300"/> 
+  <img src="assets/images/HouseContrastStreched.jpg" width="300"/>
+</div>
