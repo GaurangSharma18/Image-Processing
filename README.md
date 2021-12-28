@@ -87,7 +87,23 @@
 
 ## Filtering in frequency domain
 <div float="left">
-  <img src="assets/images/cameraman.jpg" width="300"/> 
-  <img src="assets/images/cameramanHighPassFilter.jpg" width="300"/> 
-  <img src="assets/images/cameramanLowPassFilter.jpg" width="300"/> 
+  <img src="assets/images/cameramanFreqDomain.jpg"/>
+</div>
+
+## Contrast Streching
+<div float="left">
+  <img src="assets/images/Moon.jpg" width="400"/> 
+  <img src="assets/images/MoonContrastStreched.jpg" width="400"/>
+</div>
+<div float="left">
+  <img src="assets/images/house.jpg" width="400"/> 
+  <img src="assets/images/HouseContrastStreched.jpg" width="400"/>
+</div>
+
+## Contrast Matching - Church image is contrast matched with respect to corel's contrast.
+<div float="left">
+  <img src="assets/images/Church.jpg" width="300"/> 
+  <img src="assets/images/corel.jpg" width="300"/>
+  <img src="assets/images/churchContrastMatching.jpg" width="300"/>
+  
 </div>
