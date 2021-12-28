@@ -107,3 +107,35 @@
   <img src="assets/images/churchContrastMatching.jpg" width="300"/>
   
 </div>
+
+## Median Filtering
+### Miranda1 original Image and Image with noise
+
+<div float="left">
+  <img src="assets/images/miranda1.tif" width="400"/> 
+  <img src="assets/images/Coin.jpg" width="400"/>
+</div>
+
+### Miranda1 image with median filters 3*3, 5*5 and 7*7
+<div float="left">
+  <img src="assets/images/coin3.jpg" width="400"/> 
+  <img src="assets/images/coin5.jpg" width="400"/>
+  <img src="assets/images/coin7.jpg" width="400"/>
+</div>
+
+### Miranda1 image after thresholding on 3*3 kernel median filtered Image
+<div float="left">
+  <img src="assets/images/CoinAfterThresholding3.jpg" width="400"/> 
+</div>
+
+
+### Miranda1 image after thresholding on 5*5 kernel median filtered Image
+<div float="left">
+  <img src="assets/images/CoinAfterThresholding5.jpg" width="400"/> 
+</div>
+
+
+### Miranda1 image after thresholding on 7*7 kernel median filtered Image
+<div float="left">
+  <img src="assets/images/CoinAfterThresholding7.jpg" width="400"/> 
+</div>
