@@ -81,6 +81,6 @@
 
 ## RGB colourspace components with a few modifications.
 <div float="left">
-  <img src="assets/imagespeppers.jpg" /> 
+  <img src="assets/images/peppers.jpg" /> 
 </div>
 
