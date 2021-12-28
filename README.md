@@ -56,3 +56,15 @@
   <img src="assets/images/colourExtractionChameleon.jpg" width="300" /> 
   <img src="assets/images/GreencolourExtractionChameleon.jpg" width="300" />
 </div>
+
+
+## Blurring And Restoration
+#### DIP Book Image
+<div float="left">
+  <img src="assets/images/DIP.jpg" />
+</div>
+
+#### Blurring, Addition of noise And Restoration using Weiner Filter
+<div float="left">
+  <img src="assets/images/DIPWeinerFilter.jpg" /> 
+</div>
