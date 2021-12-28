@@ -102,9 +102,9 @@
 
 ## Contrast Matching - Church image is contrast matched with respect to corel's contrast.
 <div float="left">
-  <img src="assets/images/Church.jpg" width="300"/> 
+  <img src="assets/images/Church.jpg" width="300" height="300"/> 
   <img src="assets/images/corel.jpg" width="300"/>
-  <img src="assets/images/churchContrastMatching.jpg" width="300"/>
+  <img src="assets/images/churchContrastMatching.jpg" width="300" height="300"/>
   
 </div>
 
@@ -112,8 +112,8 @@
 ### Miranda1 original Image and Image with noise
 
 <div float="left">
-  <img src="assets/images/miranda1.jpg" width="300"/> 
-  <img src="assets/images/Coin.jpg" width="300"/>
+  <img src="assets/images/miranda1.jpg" width="250"/> 
+  <img src="assets/images/Coin.jpg" width="250"/>
 </div>
 
 ### Miranda1 image with median filters 3*3, 5*5 and 7*7
