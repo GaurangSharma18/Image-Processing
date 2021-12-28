@@ -73,6 +73,7 @@
 <div float="left">
   <img src="assets/images/.ChrominanceSubSamplingBunny.jpg" /> 
 </div>
+
 #### U and V components after processing and the Output Image processed Image in RGB.
 <div float="left">
   <img src="assets/images/bunny2.jpg" /> 
